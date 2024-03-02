@@ -13,7 +13,7 @@ The script relies on the following Python packages:
 - `time`: Provides various time-related functions.
 
 You can install these packages using pip:
-pip install pynput pyperclip httpx sys time
+`pip install pynput pyperclip httpx sys time`
 
 ## Mistral Instruct Server
 
